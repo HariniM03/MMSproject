@@ -1,0 +1,21 @@
+20
+sravani female 26 7 7 7 7 7
+meghana female 25 9 8 9 6 9
+anjali female 26 9 8 9 6 7
+sangeetha female 25 6 8 9 7 6
+vineetha female 24 8 9 6 7 8
+swathi female 26 7 8 9 8 9
+harika female 25 8 8 8 8 8 
+vasanthi female 23 9 8 9 8 7
+harshitha female 30 8 9 8 9 6
+harini female 23 9 9 9 9 9
+kishan male 23 9 9 9 9 9
+kowshik male 26 7 7 7 7 7
+pavan male 25 9 8 9 6 9
+rohit male 26 9 8 9 6 7
+rishab male 25 6 8 9 7 6
+dev male 24 8 9 6 7 8
+rakesh male 26 7 8 9 8 9
+vijay male 25 8 8 8 8 8 
+ram male 23 9 8 9 8 7
+rahul male 30 8 9 8 9 6
