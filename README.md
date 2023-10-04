@@ -81,6 +81,6 @@ Thank you for your understanding and for helping us make this project better.
 ## Authors
 @HariniM03
 @vasanthii12
-@swathishvani
+@swathishivani
 @harikajaddu13
 
